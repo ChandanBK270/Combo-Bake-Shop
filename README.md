@@ -20,7 +20,7 @@ To view the project, simply clone the repository and open the index.html file in
 
 bash
 Copy code
-git clone https://github.com/yourusername/combo-bake-shop.git
+git clone https://github.com/ChandanBK270/combo-bake-shop.git
 cd combo-bake-shop
 open index.html
 Contributing
