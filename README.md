@@ -1,4 +1,4 @@
-s a GitHub repository description for the "Combo-Bake-Shop" project:
+"Combo-Bake-Shop" project:
 
 Combo-Bake-Shop
 Combo-Bake-Shop is a simple HTML-based website for a bakery shop that allows users to view and buy various bakery items, including ice creams and sundaes. This project showcases a basic structure for displaying items and their prices, providing a user-friendly interface for online orders.
